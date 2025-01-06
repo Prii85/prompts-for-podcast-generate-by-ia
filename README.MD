@@ -7,11 +7,14 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
+**********************************************************************************************************************************************************************************
 TITULO ESCOLHIDO: "Se Beber, Não Poste"
 Subtítulo: Reflexões sobre redes sociais e a pressão de estar sempre bem.
 Trocadilho: Uma brincadeira com o nome do filme "Se Beber, Não Case", com um toque de ironia sobre os exageros e a ansiedade criados pelas redes sociais.
 
+**********************************************************************************************************************************************************************************
 Roteiro do 1º episódio do PodCast
+
 [INTRODUÇÃO]
 
 Carol: Oi, oi, pessoal! Está no ar o Se Beber, Não Poste, o podcast onde a gente fala sobre como as redes sociais impactam nosso bem-estar e nos fazem questionar a vida real. Eu sou a Carol, e estou aqui com a Tati para trocar uma ideia sincera sobre esse mundo perfeito... mas nem tanto.
