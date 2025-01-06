@@ -7,12 +7,22 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-_TITULO ESCOLHIDO: "Se Beber, Não Poste"
+TITULO ESCOLHIDO: "Se Beber, Não Poste"
 Subtítulo: Reflexões sobre redes sociais e a pressão de estar sempre bem.
 Trocadilho: Uma brincadeira com o nome do filme "Se Beber, Não Case", com um toque de ironia sobre os exageros e a ansiedade criados pelas redes sociais.
 
 
-_Utilizei uma esteira de prompts para gerar cada etapa do processo criativo:
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+## ✨ Como foi feito ?
+
+- Roteiro gerado via chatgpt
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo:
 
 Prompts usados no CHATGPT:
 
@@ -44,16 +54,6 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos, não tratar assuntos com qualquer preconceito, machismo, ou etarismo.
 - Não ultrapasse 3 minutos de duração"
 
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
