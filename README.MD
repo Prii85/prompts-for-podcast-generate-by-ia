@@ -46,7 +46,7 @@ E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já est�
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DreamLab](https://www.canva.com/dream-lab/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -92,8 +92,9 @@ o formato do roteiro deve ser
 
 
 
-- Midjourney Para gerar capas
-
+- DREAM LAB Para gerar capas
+Prompt:
+"crie uma imagem de capa para um podcast cujo titulo é "Se beber, não poste", com uma imagem de uma mulher de 22 anos, jovem, morena segurando o celular e olhando para ele pensativa, ela está bem arrumada, num ambiente que parece uma festa e com poucas pessoas ao redor porém com cara de cansada"
 
 
 - Capcut para tratar aúdio e adicionar sons de fundo
