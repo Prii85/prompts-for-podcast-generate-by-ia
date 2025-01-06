@@ -41,11 +41,14 @@ Por isso, pessoal, a reflexão que fica é: nada de se cobrar demais por um padr
 
 E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já está ótimo. Esse foi o Se Beber, Não Poste dessa semana. Até a próxima, pessoal!
 
+**********************************************************************************************************************************************************************************
+
 
 Imagem disponibilizada no GITHUB
 https://github.com/Prii85/prompts-for-podcast-generate-by-ia/blob/main/Imagem%20para%20PODCAST%20--%20Se%20Beber%2C%20N%C3%A3o%20Poste.png
 
-Audio do 1º episódio do PODCAST
+Audio do 1º episódio do PODCAST disponibilizado no GITHUB
+https://github.com/Prii85/prompts-for-podcast-generate-by-ia/blob/main/Se%20Beber%2C%20N%C3%A3o%20Poste%20-%20epis%C3%B3dio1.mp3
 
 
 **********************************************************************************************************************************************************************************
@@ -99,7 +102,7 @@ o formato do roteiro deve ser
 
 
 
-- DREAM LAB Para gerar capas
+- DREAM LAB Para gerar capa
 Prompt:
 "crie uma imagem de capa para um podcast cujo titulo é "Se beber, não poste", com uma imagem de uma mulher de 22 anos, jovem, morena segurando o celular e olhando para ele pensativa, ela está bem arrumada, num ambiente que parece uma festa e com poucas pessoas ao redor porém com cara de cansada"
 
