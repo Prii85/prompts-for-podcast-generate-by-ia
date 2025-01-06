@@ -17,29 +17,29 @@ Roteiro do 1º episódio do PodCast
 
 [INTRODUÇÃO]
 
-Carol: Oi, oi, pessoal! Está no ar o Se Beber, Não Poste, o podcast onde a gente fala sobre como as redes sociais impactam nosso bem-estar e nos fazem questionar a vida real. Eu sou a Carol, e estou aqui com a Tati para trocar uma ideia sincera sobre esse mundo perfeito... mas nem tanto.
 
-Tati: Isso mesmo! Se você já se pegou se comparando com aquela influenciadora que parece ter a vida dos sonhos, ou sentindo que precisa fazer mais para ser aceita nas redes, esse episódio é pra você. Então, pega o café, relaxa e vem com a gente!
+Oi, pessoal! Está no ar o Se Beber, Não Poste, o podcast onde a gente fala sobre como as redes sociais impactam nosso bem-estar e nos fazem questionar a vida real. Eu sou a Carol Freitas, e estou aqui hoje com vocês para trocar uma ideia sincera sobre esse mundo perfeito... mas nem tanto.
 
-[NOTÍCIA 1]
+Se você já se pegou se comparando com aquela influenciadora que parece ter a vida dos sonhos, ou sentindo que precisa fazer mais para ser aceita nas redes, esse episódio é pra você. Então, pega o café, relaxa e vem com a gente!
 
-Carol: Bom, e a polêmica dessa semana que bombou nas redes sociais foi a história de uma influenciadora muito famosa que postou uma foto do “dia perfeito” — ela apareceu toda arrumada, com a maquiagem impecável, no meio de uma viagem incrível, e ainda por cima escreveu sobre como ela estava "super equilibrada" entre trabalho, descanso e lazer.
+[NOTÍCIA 1] 
+Bom, e a polêmica dessa semana que bombou nas redes sociais foi a história de uma influenciadora muito famosa que postou uma foto do “dia perfeito” — ela apareceu toda arrumada, com a maquiagem impecável, no meio de uma viagem incrível, e ainda por cima escreveu sobre como ela estava "super equilibrada" entre trabalho, descanso e lazer.
 
-Tati: Pois é, Carol! Só que o que gerou muita discussão foi que, logo depois, um monte de pessoas nos comentários questionaram se aquilo era realmente real, ou só mais um cenário montado para criar uma impressão de vida perfeita. Afinal, todo mundo que vê essas postagens se sente pressionado a alcançar esse nível de “perfeição”, né? E as comparações começam a aparecer.
+Só que o que gerou muita discussão foi que, logo depois, um monte de pessoas nos comentários questionaram se aquilo era realmente real, ou só mais um cenário montado para criar uma impressão de vida perfeita. Afinal, todo mundo que vê essas postagens se sente pressionado a alcançar esse nível de “perfeição”, né? E as comparações começam a aparecer.
 
-[ABORDAGEM COM ANÁLISE PSICOLÓGICA OU DE COMPORTAMENTO]
+[ABORDAGEM COM ANALISE PSICOLOGICA OU DE COMPORTAMENTO] 
 
-Carol: Exato, Tati! O comportamento nas redes sociais tem gerado muita ansiedade nas pessoas. Quando vemos esses posts "perfeitos", esquecemos que por trás disso existe uma edição, um filtro, uma construção de imagem. E muitas vezes, a gente começa a se questionar: "Por que minha vida não é assim?" Ou, "Eu também preciso estar sempre nesse nível de produtividade e felicidade."
+O comportamento nas redes sociais tem gerado muita ansiedade nas pessoas. Quando vemos esses posts "perfeitos", esquecemos que por trás disso existe uma edição, um filtro, uma construção de imagem. E muitas vezes, a gente começa a se questionar: "Por que minha vida não é assim?" Ou, "Eu também preciso estar sempre nesse nível de produtividade e felicidade."
 
-Tati: E a grande verdade é que essas redes criam uma pressão muito grande para sermos sempre positivos, sempre ativos e, principalmente, sempre no controle. Isso vai gerando uma cobrança interna sem fim, que pode afetar nossa saúde mental. Quem nunca sentiu uma ansiedade por não ter a mesma vida que alguém online? Ou sentiu que, se não compartilhasse algo “incrível”, não estava vivendo de verdade?
+E a grande verdade é que essas redes criam uma pressão muito grande para sermos sempre positivos, sempre ativos e, principalmente, sempre no controle. Isso vai gerando uma cobrança interna sem fim, que pode afetar nossa saúde mental. Quem nunca sentiu uma ansiedade por não ter a mesma vida que alguém online? Ou sentiu que, se não compartilhasse algo “incrível”, não estava vivendo de verdade?
 
-Carol: É, o pior é que a maioria das pessoas não mostra o que acontece nos bastidores, os dias de cansaço, os erros e as imperfeições. Isso só intensifica esse padrão irreal de perfeição, e cria uma espécie de ansiedade coletiva. No fim, estamos nos comparando com uma versão de vida que nem existe de fato.
+É, o pior é que a maioria das pessoas não mostra o que acontece nos bastidores, os dias de cansaço, os erros e as imperfeições. Isso só intensifica esse padrão irreal de perfeição, e cria uma espécie de ansiedade coletiva. No fim, estamos nos comparando com uma versão de vida que nem existe de fato.
+
 
 [FINALIZAÇÃO]
+Por isso, pessoal, a reflexão que fica é: nada de se cobrar demais por um padrão que não é real. A vida é bem mais simples e leve quando a gente se permite ser quem realmente somos, sem a pressão de estar sempre bem o tempo todo.
 
-Tati: Por isso, pessoal, a reflexão que fica é: nada de se cobrar demais por um padrão que não é real. A vida é bem mais simples e leve quando a gente se permite ser quem realmente somos, sem a pressão de estar sempre bem o tempo todo.
-
-Carol: É isso aí, Tati! E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já está ótimo. Esse foi o Se Beber, Não Poste dessa semana. Até a próxima, pessoal!
+E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já está ótimo. Esse foi o Se Beber, Não Poste dessa semana. Até a próxima, pessoal!
 
 **********************************************************************************************************************************************************************************
 
@@ -79,7 +79,7 @@ o formato do roteiro deve ser
 - no bloco [ABORDAGEM COM ANALISE PSICOLOGICA OU DE COMPORTAMENTO] faça um comentário analisando o comportamento geral dos usuários das redes sociais sobre a [NOTÍCIA 1] discutida no episódio do podcast. 
 - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Esse foi o SeBeberNãoPoste dessa semana' 
 - use termos de fácil explicação
-- O podcast vai ser apresentado somente por mulheres
+- O podcast vai ser apresentado por uma mulher, Carol Freitas
 - O podcast deve ser curto
 {REGRAS NEGATIVAS}
 - Não use muitos termos técnicos, não tratar assuntos com qualquer preconceito, machismo, ou etarismo.
@@ -90,7 +90,11 @@ o formato do roteiro deve ser
 
 - Audio gerado pela elevenLabs
 
+
+
 - Midjourney Para gerar capas
+
+
 
 - Capcut para tratar aúdio e adicionar sons de fundo
 
