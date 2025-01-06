@@ -41,6 +41,13 @@ Por isso, pessoal, a reflexão que fica é: nada de se cobrar demais por um padr
 
 E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já está ótimo. Esse foi o Se Beber, Não Poste dessa semana. Até a próxima, pessoal!
 
+
+Imagem disponibilizada no GITHUB
+https://github.com/Prii85/prompts-for-podcast-generate-by-ia/blob/main/Imagem%20para%20PODCAST%20--%20Se%20Beber%2C%20N%C3%A3o%20Poste.png
+
+Audio do 1º episódio do PODCAST
+
+
 **********************************************************************************************************************************************************************************
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -48,7 +55,7 @@ E lembrem-se: se você está feliz com sua vida do jeitinho que ela é, já est�
 - [ChatGPT](https://chat.openai.com/) 
 - [DreamLab](https://www.canva.com/dream-lab/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
@@ -97,13 +104,13 @@ Prompt:
 "crie uma imagem de capa para um podcast cujo titulo é "Se beber, não poste", com uma imagem de uma mulher de 22 anos, jovem, morena segurando o celular e olhando para ele pensativa, ela está bem arrumada, num ambiente que parece uma festa e com poucas pessoas ao redor porém com cara de cansada"
 
 
-- Capcut para tratar aúdio e adicionar sons de fundo
+
 
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+
 
 
 ## 🛠️ Instruções de execução
