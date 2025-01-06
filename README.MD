@@ -95,18 +95,18 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos, não tratar assuntos com qualquer preconceito, machismo, ou etarismo.
 - Não ultrapasse 3 minutos de duração"
 
-
+**********************************************************************************************************************************************************************************
 
 
 - Audio gerado pela elevenLabs
 
-
+**********************************************************************************************************************************************************************************
 
 - DREAM LAB Para gerar capa
 Prompt:
 "crie uma imagem de capa para um podcast cujo titulo é "Se beber, não poste", com uma imagem de uma mulher de 22 anos, jovem, morena segurando o celular e olhando para ele pensativa, ela está bem arrumada, num ambiente que parece uma festa e com poucas pessoas ao redor porém com cara de cansada"
 
-
+**********************************************************************************************************************************************************************************
 
 
 ## 📚 Materiais
